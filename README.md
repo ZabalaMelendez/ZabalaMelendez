@@ -1,5 +1,6 @@
-### Hi there 👋
+# Welcome To My Github Profile 👋
 
+___
 <!--
 **ZabalaMelendez/ZabalaMelendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![My Name](https://img.shields.io/badge/My%20Name-Ramon%20A.%20Zabala%20Melendez-brightgreen)
+![Working At](https://img.shields.io/badge/Working%20At-Banco%20Santa%20Cruz-blue)
+![Ocupation](https://img.shields.io/badge/Ocupation-Sr.%20Software%20Engineer-important)
+![I'm From](https://img.shields.io/badge/I'm%20From-Dominican%20Republic-informational)
+___
