@@ -23,7 +23,21 @@ ___
 
 ## About Me
 
-I'm just a passionate developer. I love to code for making changes on institutions and teams for positives impact in productivity business.
+I'm just a passionate developer. I love to code for making changes on institutions and teams for positives impact in business productivity.
 I work with .Net Core, C#, JS, HTML, Xamarin Forms, VueJS, React and many more.
 **😍 Loving DevOps Culture. 😍**
 
+### Languages and Tools
+
+ |  Languages | Tools | Framewors |
+ | ----------- | ----------- |----------- |
+ C#    | Visual Studio | Bootstrap
+ ASP.NET MVC | VS Code | React.JS
+ .NET CORE | SQL Server Management Studio | MVC
+ ASP.NET NET CORE | Toad For Oracle | Vue.js
+ CSS3 | Android Studio | Angular
+ JS | Sourcetree | Xamarin.Forms
+
+### These Are My Github Stats :chart_with_upwards_trend:
+
+![Estadística resumidas de GitHu](https://github-readme-stats.vercel.app/api?username=zabalamelendez&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
